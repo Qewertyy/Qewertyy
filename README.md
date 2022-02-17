@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnonymousHm
-- 👀 I Know C#,C++,HTML,CSS,JQuery,JavaScript,Java
+- 👀 I Know C#, C++,MS SQL Server, HTML, CSS, JQuery, Java
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me? => You Can't
