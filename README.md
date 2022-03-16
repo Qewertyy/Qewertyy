@@ -2,7 +2,7 @@
 - 👀 Languages✔ C#, C++, HTML, CSS, JQuery
 - 🔙🔚 MS SQL Server, MYSQL
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python,C#,C++ Projects
+- 💞️ I’m looking to collaborate on Python,C#,C++,Java Projects
 - 📫 How to reach me? => You Can't
 
 <!---
