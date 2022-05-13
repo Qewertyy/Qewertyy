@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @AnonymousHm
-- 👀 Languages✔ C#, HTML, CSS, JQuery, Java
+- 👀 Languages✔ C#, HTML, CSS, JQuery & Java
 - 🔙🔚 MS SQL Server, MYSQL
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python,C#,C++,Java Projects
+- 💞️ I’m looking to collaborate on Python, C#, C++ Projects
 - 📫 How to reach me? => You Can't
-- 📽️ Encodes [【 ＦＰＳ 道場 】](https://anihubx.github.io)
+- 📽️ PartTimer Encoder => [【 ＦＰＳ 道場 】](https://anihubx.github.io)
 
 <!---
 AnonymousHm/AnonymousHm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
