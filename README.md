@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnonymousHm
 - 👀 Languages✔ C#, HTML, CSS, JQuery & Java
-- 🔙🔚 MS SQL Server, MYSQL
+- 🔙🔚 MS SQL Server, MySQL
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python, C#, C++ Projects
 - 📫 How to reach me? => You Can't
