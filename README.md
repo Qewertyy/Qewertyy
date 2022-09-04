@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Qewertyy
+- 👋 Hi, I’m [@Qewertyy](https://qewertyy.t.me)
 - 👀 Languages✔ C#, HTML, CSS, JS & Python
-- 🔙🔚 MS SQL Server, MySQL & MongoDb
-- 🌱 I’m currently learning [Reactjs.Net](https://reactjs.net).
+- 🔙🔚 MS SQL Server, MySQL & MongoDB
+- 🌱 I’m currently learning [ReactJs.Net](https://reactjs.net).
 - 💞️ I’m looking to collaborate on Python, C# Projects.
 - 📫 Part Time Freelancer and Encoder.
 - 📽️ Encodes => [【 ＦＰＳ 道場 】](https://fpsdojo.github.io)
