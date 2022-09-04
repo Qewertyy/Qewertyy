@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @AnonymousHm
-- 👀 Languages✔ C#, HTML, CSS, JS and Python
-- 🔙🔚 MS SQL Server, MySQL
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python, C#, C++ Projects
-- 📫 How to reach me? => You Can't
+- 👋 Hi, I’m @Qewertyy
+- 👀 Languages✔ C#, HTML, CSS, JS & Python
+- 🔙🔚 MS SQL Server, MySQL & MongoDb
+- 🌱 I’m currently learning [Reactjs.Net](https://reactjs.net).
+- 💞️ I’m looking to collaborate on Python, C# Projects.
+- 📫 Part Time Freelancer and Encoder.
 - 📽️ Encodes => [【 ＦＰＳ 道場 】](https://fpsdojo.github.io)
 
 <!---
