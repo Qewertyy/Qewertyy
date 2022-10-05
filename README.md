@@ -16,11 +16,11 @@
     <a href="https://github.com/proffapt">
       <img height="210em" width="480em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=qewertyy&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/></a>
   - Frameworks & Libraries
+    - Beginner: - NextJs
+    - Intermediate: - Django, ReactJs, Asp.Net Core MVC
   - Database(s)
     - Beginner: - Firebase, MongoDB
     - Intermediate: - MS SQL Server, PostgreSQL, MySQL
-    - Beginner: - NextJs
-    - Intermediate: - Django, ReactJs, Asp.Net Core MVC
   - Tools
     - Git: - Intermediate
     - VSCode, VS2019, VS2022: - Intermediate
