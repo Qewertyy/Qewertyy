@@ -22,8 +22,8 @@
     - Beginner: - NextJs
     - Intermediate: - Django, ReactJs, Asp.Net Core MVC
   - Tools
-    - Git: Intermediate
-    - VSCode, VS2019, VS2022: Intermediate
+    - Git: - Intermediate
+    - VSCode, VS2019, VS2022: - Intermediate
   - Others
     - Freelancer => [Contact me](mailto:kh786100@gmail.com)
     - Encoder => [【 ＦＰＳ 道場 】](https://fpsdojo.github.io)
