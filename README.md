@@ -23,9 +23,9 @@
     - Intermediate: - MS SQL Server, PostgreSQL, MySQL
   - Tools
     - Git: - Intermediate
-    <p align="right">
+    <p href="https://github.com/qewertyy">
   <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=qewertyy&show_icons=true&theme=jolly" /> -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=qewertyy&theme=jolly" />
+  <img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=qewertyy&theme=jolly" />
 </p>
     - VSCode, VS2019, VS2022: - Intermediate
   - Others
