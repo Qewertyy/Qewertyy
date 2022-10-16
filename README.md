@@ -13,7 +13,7 @@
     - Expert: - C#, Python, HTML, CSS
   - OS(s)
     - Windows: - Intermediate
-    <a href="https://github.com/proffapt">
+    <a href="https://github.com/qewertyy">
       <img height="210em" width="480em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=qewertyy&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/></a>
   - Frameworks & Libraries
     - Beginner: - NextJs
@@ -23,6 +23,10 @@
     - Intermediate: - MS SQL Server, PostgreSQL, MySQL
   - Tools
     - Git: - Intermediate
+    <p align="right">
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=qewertyy&show_icons=true&theme=jolly" /> -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=qewertyy&theme=jolly" />
+</p>
     - VSCode, VS2019, VS2022: - Intermediate
   - Others
     - Freelancer => [Contact me](mailto:kh786100@gmail.com)
@@ -31,11 +35,6 @@
 <!--<p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=qewertyy&theme=redical">
 </p>-->
-
-<p align="center">
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=qewertyy&show_icons=true&theme=jolly" /> -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=qewertyy&theme=jolly" />
-</p>
 
 <hr>
 <p align="left">
