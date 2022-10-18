@@ -27,6 +27,7 @@
   - Others
     - Freelancer => [Contact me](mailto:kh786100@gmail.com)
     - Encoder => [【 ＦＰＳ 道場 】](https://fpsdojo.github.io)
+    - Game Dev
 
 <!--<p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=qewertyy&theme=redical">
