@@ -8,9 +8,9 @@
 * My skills set include:
   - Language(s)
     - Noob: - C/C++, Bash
-    - Beginner: - Java, Dart
+    - Beginner: - Java, Dart, Kotlin
     - Intermediate: - JavaScript
-    - Expert: - C#, Python, HTML, CSS
+    - Expert: - C#, Python, CSS, 
   - OS(s)
     - Windows: - Intermediate
     <a href="https://github.com/qewertyy">
