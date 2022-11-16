@@ -46,7 +46,7 @@
 <a href="https://www.linkedin.com/in/qewertyy/">
   <img align="center" width="22px" style="text-decoration:none" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
 </a> 
-<!--<a href="https://www.linkedin.com/in/qewertyy/">
+<a href="https://www.linkedin.com/in/qewertyy/">
   <img src="https://komarev.com/ghpvc/?username=qewertyy&style=flat-square" align="right"/>
-</a>-->
+</a>
 </p>
