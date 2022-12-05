@@ -16,7 +16,7 @@
     <a href="https://github.com/qewertyy">
       <img height="210em" width="480em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=qewertyy&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/></a>
   - Frameworks & Libraries
-    - Beginner: - NextJs, ReactJS.net
+    - Beginner: - NextJs, ReactJs.net
     - Intermediate: - Django, ReactJs, Asp.Net Core MVC
   - Database(s)
     - Beginner: - Firebase, MongoDB
