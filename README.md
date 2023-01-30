@@ -8,11 +8,11 @@
 * My skills set include:
   - Language(s)
     - Noob: - C/C++, Bash
-    - Beginner: - Java, Dart, Kotlin
+    - Beginner: - Java, Dart, Kotlin, TypeScript
     - Intermediate: - JavaScript
     - Expert: - C#, Python, CSS, 
   - OS(s)
-    - Windows: - Intermediate
+    - Intermediate: - Windows, Mint, Ubuntu (distros)
     <a href="https://github.com/qewertyy">
       <img height="210em" width="480em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=qewertyy&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/></a>
   - Frameworks & Libraries
