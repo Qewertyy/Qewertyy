@@ -1,7 +1,7 @@
 ## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="33px"> there, I’m <a href="https://qewertyy.t.me">Akhtar</a></h2>
 
 <a href="https://github.com/qewertyy">
-<img height="220em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qewertyy&layout=compact&langs_count=8&theme=nightowl" align="right"/>
+<img height="220em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qewertyy&layout=compact&langs_count=9&theme=nightowl" align="right"/>
 </a>
 
 * Co-founder of [【 ＦＰＳ 道場 】](https://fpsdojo.github.io).<br>
@@ -16,8 +16,9 @@
     <a href="https://github.com/qewertyy">
       <img height="210em" width="480em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=qewertyy&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/></a>
   - Frameworks & Libraries
-    - Beginner: - NextJs, ReactJs.net
-    - Intermediate: - Django, ReactJs, Asp.Net Core MVC
+    - Beginner: - ReactJs.net, ExpressJs
+    - Intermediate: - NextJs, ReactJs
+    - Expert - Asp.Net & also Core MVC, Django, Telethon, Pyrogram
   - Database(s)
     - Beginner: - Firebase, MongoDB
     - Intermediate: - MS SQL Server, PostgreSQL, MySQL
@@ -25,7 +26,7 @@
     - Git: - Intermediate
     - VSCode, VS2019, VS2022: - Intermediate
   - Others
-    - Freelancer => [Contact me](mailto:kh786100@gmail.com)
+    - Freelancer => [Contact me](mailto:qewertyy.irl@gmail.com)
     - Encoder => [【 ＦＰＳ 道場 】](https://fpsdojo.github.io)
     - Game Dev
 
