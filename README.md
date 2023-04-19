@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="33px"> there, I’m <a href="https://qewertyy.t.me">Akhtar</a></h2>
+## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="33px"> there, I’m <a href="https://qewertyy.t.me">Khan Akhtar</a></h2>
 
 <a href="https://github.com/qewertyy">
 <img height="220em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qewertyy&layout=compact&langs_count=9&theme=nightowl" align="right"/>
