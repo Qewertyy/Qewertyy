@@ -1,11 +1,11 @@
-## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="33px"> there, I’m <a href="https://qewertyy.t.me">Khan Akhtar</a></h2>
+## Hi there, I’m [Khan Akhtar](https://qewertyy.t.me)
 
 <a href="https://github.com/qewertyy">
 <img height="220em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qewertyy&layout=compact&langs_count=9&theme=nightowl" align="right"/>
 </a>
 
-* Co-founder of [【 ＦＰＳ 道場 】](https://fpsdojo.github.io).<br>
-* My skills set include:
+### Co-founder of [【 ＦＰＳ 道場 】](https://fpsdojo.github.io).
+* ## My skills set include:
   - Language(s)
     - Noob: - C/C++, Bash
     - Beginner: - Dart, Kotlin, TypeScript, Rust
