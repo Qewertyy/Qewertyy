@@ -8,8 +8,8 @@
 * ## My skills set include:
   - Language(s)
     - Noob: - C/C++, Bash
-    - Beginner: - Dart, Kotlin, TypeScript, Rust
-    - Intermediate: - JavaScript, Java, Typescript
+    - Beginner: - Dart, Kotlin, Rust
+    - Intermediate: - Javascript, Java, Typescript
     - Expert: - C#, Python, CSS
   - OS(s)
     - Intermediate: - Windows, Mint, Ubuntu (distros)
