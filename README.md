@@ -9,7 +9,7 @@
   - Language(s)
     - Noob: - C/C++, Bash
     - Beginner: - Dart, Kotlin, TypeScript, Rust
-    - Intermediate: - JavaScript, Java
+    - Intermediate: - JavaScript, Java, Typescript
     - Expert: - C#, Python, CSS
   - OS(s)
     - Intermediate: - Windows, Mint, Ubuntu (distros)
