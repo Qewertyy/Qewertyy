@@ -1,4 +1,4 @@
-## Hi there, I’m [Khan Akhtar](https://qewertyy.t.me)
+## Hi there, I’m [Khan Akhtar](https://qewertyy.me)
 
 <a href="https://github.com/qewertyy">
 <img height="220em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qewertyy&layout=compact&langs_count=9&theme=nightowl" align="right"/>
@@ -27,7 +27,7 @@
     - VSCode, VS2019, VS2022: - Intermediate
   - Others
     - Freelancer => [Contact me](mailto:qewertyy.irl@gmail.com)
-    - Encoder => [【 ＦＰＳ 道場 】](https://fpsdojo.github.io)
+    - Encoder => [【 ＦＰＳ 道場 】](https://dojoverse.me)
     - Game Dev
 
 <!--<p align = "center">
