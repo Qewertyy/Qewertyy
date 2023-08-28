@@ -4,7 +4,7 @@
 <img height="220em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qewertyy&layout=compact&langs_count=9&theme=nightowl" align="right"/>
 </a>
 
-### Co-founder of [【 ＦＰＳ 道場 】](https://fpsdojo.github.io)
+### Co-founder of [【 ＦＰＳ 道場 】](https://dojoverse.me)
 * ## My skills set include:
   - Language(s)
     - Noob: - C/C++, Bash
