@@ -16,9 +16,9 @@
     <a href="https://github.com/qewertyy">
       <img height="210em" width="480em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=qewertyy&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/></a>
   - Frameworks & Libraries
-    - Beginner: - ReactJs.net, ExpressJs
-    - Intermediate: - NextJs, ReactJs
-    - Expert - Asp.Net & also Core MVC, Django, Telethon, Pyrogram
+    - Beginner: - ReactJs.net, gramme.rs, Teloxide
+    - Intermediate: - NextJs, ExpressJs
+    - Expert - Asp.Net & also with Core MVC, Django, Telethon, Pyrogram, ReactJs
   - Database(s)
     - Beginner: - Firebase, MongoDB
     - Intermediate: - MS SQL Server, PostgreSQL, MySQL
