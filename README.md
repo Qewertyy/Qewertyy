@@ -1,4 +1,4 @@
-## Hi there, I’m [Qewertyy](https://qewertyy.me) -->
+## Hi there, I’m [Qewertyy](https://qewertyy.me)
 
 <a href="https://github.com/qewertyy">
 <img height="220em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qewertyy&layout=compact&langs_count=9&theme=nightowl" align="right"/>
