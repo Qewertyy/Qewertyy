@@ -4,7 +4,7 @@
 <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=qewertyy&show_icons=true&theme=dark&include_all_commits=true&count_private=true" align="center"/>
 </a>
 <a href="https://github.com/qewertyy">
-<img height="200em" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qewertyy&layout=compact&langs_count=9&theme=dark" align="center"/>
+<img height="200em" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qewertyy&layout=compact&langs_count=10&theme=dark" align="center"/>
 </a>
 
 <br/>
