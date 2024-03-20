@@ -16,7 +16,7 @@ For more info visit: https://qewertyy.dev
 <p align="left">
 📫 How to reach me:
 <a href="https://qewertyy.dev/">
-  <img align="center" widht="10%" style="text-decoration:none" src="https://res.cloudinary.com/tungu/image/upload/v1589375410/vercel-logo-icon_um9i6v.jpg" />
+  <img align="center" widht="22px" style="text-decoration:none" src="https://res.cloudinary.com/tungu/image/upload/v1589375410/vercel-logo-icon_um9i6v.jpg" />
 </a>
 <a href="https://twitter.com/qewertyy">
   <img align="center" width="22px" style="text-decoration:none" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
@@ -26,8 +26,5 @@ For more info visit: https://qewertyy.dev
 </a>
 <a href="https://www.linkedin.com/in/qewertyy/">
   <img align="center" width="22px" style="text-decoration:none" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
-</a> 
-<a href="https://www.linkedin.com/in/qewertyy/">
-  <img src="https://komarev.com/ghpvc/?username=qewertyy&style=flat-square" align="right"/>
 </a>
 </p>
