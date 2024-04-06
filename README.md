@@ -20,4 +20,7 @@
 <a href="mailto:qewertyy.irl@gmail.com">
   <img align="center" width="22px" style="text-decoration:none" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
 </a>
+  <a href="mailto:qewertyy.irl@gmail.com">
+  <img src="https://komarev.com/ghpvc/?username=qewertyy&style=flat-square" align="right"/>
+</a>
 </p>
