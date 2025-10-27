@@ -1,4 +1,4 @@
-<h1 align="center" style="font-style: italic; text-align: center;" markdown="1"> :wave: Hi there, I’m <a href="https://qewertyy.dev">Akhtar Khan</a> aka Qewertyy</h1>
+<h1 align="center" style="font-style: italic; text-align: center;" markdown="1"> :wave: Hi there</h1>
 
 <a href="https://github.com/qewertyy">
 <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=qewertyy&show_icons=true&theme=dark&include_all_commits=true&count_private=true" align="center"/>
